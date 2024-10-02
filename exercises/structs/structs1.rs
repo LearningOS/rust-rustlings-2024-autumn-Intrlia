@@ -13,7 +13,6 @@ struct ColorClassicStruct {
     pub blue: i32,
     // TODO: Something goes here
 }
-
 struct ColorTupleStruct(i32,i32,i32);
 
 #[derive(Debug)]
